@@ -1,6 +1,7 @@
 # Summer-Analytics
 This repository is meant for summer analytics course assignments.
-Objective
+
+Project Objective
 This project aims to predict the likelihood of individuals receiving the xyz and seasonal flu vaccines using machine learning techniques.
 DataHack Project
 Approach
